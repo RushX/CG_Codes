@@ -1,0 +1,5 @@
+USE THIS TAGS WHILE COMPILING THE PROGRAMS
+-lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32
+
+EXAMPLE:
+g++ C1.cpp -o C1 -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32
